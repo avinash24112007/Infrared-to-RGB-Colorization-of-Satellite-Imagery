@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+ISRO/IR_to_RGB/Saved_Patches
+/home/avinash/ISRO/.gitignore
+*.npy
+*.tif
+*.weights.h5
